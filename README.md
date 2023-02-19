@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rexford Addo</h1>
 <h3 align="center">Just a guy interested in making the best and most useful apps to solve world problems.</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTY3NDUyYWFmNmQ2Nzk1OTJkY2FjMmU4NTE4M2U5OTk1NTkzMThiNCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/6OrCT1jVbonHG/giphy.webp">
 
 
 
